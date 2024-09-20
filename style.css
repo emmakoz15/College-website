@@ -8,3 +8,21 @@
     object-fit:cover ; 
   }
   
+
+  .bg-hero-image {
+      background-image: url("images/UCFcarousel.webp");
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-blend-mode: overlay;
+      background-color: #d1d1d1;
+      background-size: cover;
+      height: 50rem;
+  }
+
+  .imbed{
+    border-radius: 30px;
+  }
+
+  ul{
+    list-style: none; 
+  }
