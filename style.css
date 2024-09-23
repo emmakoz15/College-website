@@ -27,4 +27,15 @@
     list-style: none; 
   }
 
+  main{
+    background-color:#000000 ;
+    color: white;
+
+  }
+
+  button{
+    background-color: #000000;
+    color: white;
+  }
+
  
